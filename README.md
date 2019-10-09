@@ -1,5 +1,6 @@
 # SpaceClaim_scripts
  Assitant script for accelerating the modeling
+ 
  *Noted*: This scripts are in the test phase.
  
  *To use the script, load it in SpaceClaim. For the usage of the script, by default it is: select one solid, and run the script for this solid. For more details please check the first block of the script if available.*
